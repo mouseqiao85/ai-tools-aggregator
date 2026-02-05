@@ -1,0 +1,15 @@
+# Logs
+*.log
+health_check.log
+
+# Database
+pb_data/
+
+# Environment
+.env
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
