@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Crawl-delay for bots
+Crawl-delay: 5
+
+# Specific bot rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 3
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 4
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 5
+
+# Sitemaps for different languages
+Sitemap: https://chuansha.tech/sitemap.xml
+Sitemap: https://chuansha.tech/sitemap-en.xml
+Sitemap: https://chuansha.tech/sitemap-zh.xml
+Sitemap: https://chuansha.tech/sitemap-ja.xml
+Sitemap: https://chuansha.tech/sitemap-ko.xml
+
+# Internationalization
+Accept-Language: en, zh-CN, ja, ko

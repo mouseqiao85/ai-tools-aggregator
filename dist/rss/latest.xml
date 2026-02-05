@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI工具聚合站 - 最新AI工具</title>
+    <link>https://chuansha.tech</link>
+    <description>全球领先的AI工具聚合平台，汇集最热门的AI工具，每日更新最新AI资源</description>
+    <language>zh-CN</language>
+    <pubDate>Tue, 03 Feb 2026 18:32:42 </pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 18:32:42 </lastBuildDate>
+    <docs>https://chuansha.tech/rss</docs>
+    <generator>AI Tools Hub RSS Generator</generator>
+    <managingEditor>contact@chuansha.tech</managingEditor>
+    <webMaster>contact@chuansha.tech</webMaster>
+    
+    <item>
+      <title>ChatGPT - 强大的对话AI工具</title>
+      <link>https://chat.openai.com</link>
+      <description>OpenAI开发的高级对话AI，能够回答问题、创作文字、编程等。强大的自然语言理解和生成能力，适用于各种文本创作场景。</description>
+      <pubDate>Tue, 03 Feb 2026 18:32:42 </pubDate>
+      <guid>https://chat.openai.com</guid>
+    </item>
+    
+    <item>
+      <title>Claude - 安全可靠的AI助手</title>
+      <link>https://claude.ai</link>
+      <description>Anthropic公司开发的AI助手，专注于安全和有用性。具有出色的长文本生成和对话能力，特别适合需要安全性和可靠性的场景。</description>
+      <pubDate>Tue, 03 Feb 2026 18:32:42 </pubDate>
+      <guid>https://claude.ai</guid>
+    </item>
+    
+    <item>
+      <title>Midjourney - 精美的AI图像生成</title>
+      <link>https://www.midjourney.com</link>
+      <description>强大的AI图像生成工具，能够根据文本描述生成精美图像。以其艺术风格和高质量图像著称，是创意工作者的首选工具。</description>
+      <pubDate>Tue, 03 Feb 2026 18:32:42 </pubDate>
+      <guid>https://www.midjourney.com</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+# AI Tools Website Requirements
+
+# Python standard library only (no external dependencies required)
+# Python 3.6+
+
+# If you want to install additional packages for development:
+# requests>=2.25.0
+# pillow>=8.0.0
